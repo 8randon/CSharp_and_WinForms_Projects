@@ -1,0 +1,10 @@
+C:\Users\Brandon Townsend\Documents\cs321_projects\NotepadApp\NotepadApp\NotepadApp\NotepadApp\bin\Debug\NotepadApp.exe.config
+C:\Users\Brandon Townsend\Documents\cs321_projects\NotepadApp\NotepadApp\NotepadApp\NotepadApp\bin\Debug\NotepadApp.exe
+C:\Users\Brandon Townsend\Documents\cs321_projects\NotepadApp\NotepadApp\NotepadApp\NotepadApp\bin\Debug\NotepadApp.pdb
+C:\Users\Brandon Townsend\Documents\cs321_projects\NotepadApp\NotepadApp\NotepadApp\NotepadApp\obj\Debug\NotepadApp.csprojAssemblyReference.cache
+C:\Users\Brandon Townsend\Documents\cs321_projects\NotepadApp\NotepadApp\NotepadApp\NotepadApp\obj\Debug\NotepadApp.FibonacciTextReader.resources
+C:\Users\Brandon Townsend\Documents\cs321_projects\NotepadApp\NotepadApp\NotepadApp\NotepadApp\obj\Debug\NotepadApp.Properties.Resources.resources
+C:\Users\Brandon Townsend\Documents\cs321_projects\NotepadApp\NotepadApp\NotepadApp\NotepadApp\obj\Debug\NotepadApp.csproj.GenerateResource.cache
+C:\Users\Brandon Townsend\Documents\cs321_projects\NotepadApp\NotepadApp\NotepadApp\NotepadApp\obj\Debug\NotepadApp.csproj.CoreCompileInputs.cache
+C:\Users\Brandon Townsend\Documents\cs321_projects\NotepadApp\NotepadApp\NotepadApp\NotepadApp\obj\Debug\NotepadApp.exe
+C:\Users\Brandon Townsend\Documents\cs321_projects\NotepadApp\NotepadApp\NotepadApp\NotepadApp\obj\Debug\NotepadApp.pdb

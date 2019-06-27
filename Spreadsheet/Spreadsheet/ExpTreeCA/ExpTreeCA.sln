@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpTreeCA", "ExpTreeCA\ExpTreeCA.csproj", "{7AF0027D-A17C-45C2-B5C6-8F63DC6F3080}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpTree", "ExpTree\ExpTree.csproj", "{0B1296ED-E008-4CCE-8996-949A95F0AB92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AF0027D-A17C-45C2-B5C6-8F63DC6F3080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AF0027D-A17C-45C2-B5C6-8F63DC6F3080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AF0027D-A17C-45C2-B5C6-8F63DC6F3080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AF0027D-A17C-45C2-B5C6-8F63DC6F3080}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B1296ED-E008-4CCE-8996-949A95F0AB92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B1296ED-E008-4CCE-8996-949A95F0AB92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B1296ED-E008-4CCE-8996-949A95F0AB92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B1296ED-E008-4CCE-8996-949A95F0AB92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82B8CA63-7334-4549-BF1C-60E48FDF0EED}
+	EndGlobalSection
+EndGlobal

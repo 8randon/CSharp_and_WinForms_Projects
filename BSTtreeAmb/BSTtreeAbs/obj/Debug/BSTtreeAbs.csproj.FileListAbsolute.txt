@@ -1,0 +1,7 @@
+C:\Users\Brandon Townsend\Documents\cs321_projects\BSTtreeAmb\BSTtreeAbs\bin\Debug\BSTtreeAbs.exe.config
+C:\Users\Brandon Townsend\Documents\cs321_projects\BSTtreeAmb\BSTtreeAbs\bin\Debug\BSTtreeAbs.exe
+C:\Users\Brandon Townsend\Documents\cs321_projects\BSTtreeAmb\BSTtreeAbs\bin\Debug\BSTtreeAbs.pdb
+C:\Users\Brandon Townsend\Documents\cs321_projects\BSTtreeAmb\BSTtreeAbs\obj\Debug\BSTtreeAbs.csprojAssemblyReference.cache
+C:\Users\Brandon Townsend\Documents\cs321_projects\BSTtreeAmb\BSTtreeAbs\obj\Debug\BSTtreeAbs.csproj.CoreCompileInputs.cache
+C:\Users\Brandon Townsend\Documents\cs321_projects\BSTtreeAmb\BSTtreeAbs\obj\Debug\BSTtreeAbs.exe
+C:\Users\Brandon Townsend\Documents\cs321_projects\BSTtreeAmb\BSTtreeAbs\obj\Debug\BSTtreeAbs.pdb

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCellProps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CellProps>
+    <Ri>0</Ri>
+    <Ci>0</Ci>
+    <Value>34567</Value>
+    <Text>34567</Text>
+  </CellProps>
+  <CellProps>
+    <Ri>0</Ri>
+    <Ci>1</Ci>
+    <Value>435678</Value>
+    <Text>435678</Text>
+  </CellProps>
+</ArrayOfCellProps>
